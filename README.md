@@ -10,7 +10,7 @@ I like to build systems, REST API’s and games.
 PHP, Laravel, Composer, MySQL, Docker, Git.
 
 ### Secondary Skill
-Machine Learning, Unity, C#, Python, NodeJS, Java
+Machine Learning, Unity, C#, Python, NodeJS, Java.
 
 ### Project Managment
 SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
