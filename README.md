@@ -7,7 +7,7 @@ I’m an experienced Back-End Developer with the technologies PHP, Laravel, Comp
 I like to build systems, REST API’s and games.
 
 ### Main Tech Skills
-PHP, Laravel, Composer, MySQL, Docker, Git.
+PHP, SOLID, Design Patterns, Laravel, Composer, MySQL, Docker, Git.
 
 ### Secondary Skill
 Machine Learning, Unity, C#, Python, NodeJS, Java.
