@@ -15,6 +15,9 @@ TDD, Machine Learning, Unity, C#, Python, NodeJS, Java.
 ### Project Managment
 SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
 
+### Visit my mobile game at amazon store
+[X-Monstro](https://www.amazon.com/gp/product/B0BY7814RC)
+
 [Linkedin Profile](https://www.linkedin.com/in/gustavo-vinicius/)
 <br/>
 [Zend Certified PHP Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND031130)
