@@ -15,6 +15,9 @@ TDD, Machine Learning, Unity, C#, Python, NodeJS, Java.
 ### Project Managment
 SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
 
+### My published articles
+- [Agile Task Planing](https://medium.com/@gustavoviniciusmoraisti/agile-task-planning-for-system-developers-585fed59b09d)
+
 ### Visit my mobile game at amazon store
 [X-Monstro](https://www.amazon.com/gp/product/B0BY7814RC)
 
