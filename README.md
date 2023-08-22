@@ -15,6 +15,11 @@ TDD, Machine Learning, Unity, C#, Python, NodeJS, Java.
 ### Project Managment
 SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
 
+### Academic History
+- [Degree](./achievements/DegreeGradesHistory.pdf) <br>
+    - [Internet Programming](./achievements/internetProgramming.pdf) <br>
+- [Data Science Specialization Degree](./achievements/DataScienceDegreeGrades.pdf) <br>
+
 ### My published articles
 - [Agile Task Planing](https://medium.com/@gustavoviniciusmoraisti/agile-task-planning-for-system-developers-585fed59b09d)
 
