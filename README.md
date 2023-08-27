@@ -23,6 +23,10 @@ SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effo
 ### My published articles
 - [Agile Task Planing](https://medium.com/@gustavoviniciusmoraisti/agile-task-planning-for-system-developers-585fed59b09d)
 
+### Contact info
+- Email: gustavoviniciusmoraisti@gmail.com
+- Cellphone number: +5562984575654
+
 ### Visit my mobile game at amazon store
 [X-Monstro](https://www.amazon.com/gp/product/B0BY7814RC)
 
