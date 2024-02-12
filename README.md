@@ -1,4 +1,4 @@
-# Gustavo Vinicius de Morais
+# Gustavo Vinicius de Morais Pereira
 
 Welcome to my GitHub page.
 
@@ -10,7 +10,9 @@ I like to build systems, REST API’s and games.
 PHP, SOLID, Design Patterns, Laravel, Composer, MySQL, Docker, Git, NGINX.
 
 ### Secondary Skill
-TDD, Machine Learning, Unity, C#, Python, NodeJS, Java.
+TDD, Python, Machine Learning, NodeJS.
+
+<img src="./achievements/BackEndAPI_DataEngineering.png" width="600" height="350" />
 
 ### Project Managment
 SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
