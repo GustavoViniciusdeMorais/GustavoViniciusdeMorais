@@ -1,11 +1,3 @@
-<div id="header" align="center">
-  <img src="./achievements/GustavoPHPEngineer.png" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/gustavo-vinicius/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    </div>
-</div>
 <div align="center">
   <img src="./achievements/BackEndAPI_DataEngineering.png" width="600" height="300"/>
 </div>
@@ -18,6 +10,9 @@
 - :zap: In my free time, I study and read tech articles.
 
 - :mailbox:How to reach me: 
+  <a href="https://www.linkedin.com/in/gustavo-vinicius/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
