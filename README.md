@@ -2,15 +2,15 @@
 
 Welcome to my GitHub page.
 
-I’m an experienced Back-End Developer with the technologies PHP, SOLID, Design Patterns, Laravel, Composer, MySQL, Docker, Git, NGINX.
+I’m an experienced Backend Developer with the technologies PHP, SOLID, Design Patterns, Laravel, Composer, SQL, Docker, Git, NGINX.
 
-I like to build systems, REST API’s and games.
+I like to work with Coding, Data and Linux Services.
 
 ### Main Tech Skills
-PHP, SOLID, Design Patterns, Laravel, Composer, MySQL, Docker, Git, NGINX.
+PHP, SOLID, Design Patterns, Laravel, Composer, SQL, Docker, Git, NGINX.
 
 ### Secondary Skill
-TDD, Python, Machine Learning, NodeJS.
+TDD, Python, Data Engineering, Machine Learning.
 
 <img src="./achievements/BackEndAPI_DataEngineering.png" width="600" height="350" />
 
@@ -29,8 +29,8 @@ SCRUM, Example Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effo
 - Email: gustavoviniciusmoraisti@gmail.com
 - Cellphone number: +5562984575654
 
-### Visit my mobile game at amazon store
-[X-Monstro](https://www.amazon.com/gp/product/B0BY7814RC)
+<!-- ### Visit my mobile game at amazon store
+[X-Monstro](https://www.amazon.com/gp/product/B0BY7814RC) -->
 
 [Linkedin Profile](https://www.linkedin.com/in/gustavo-vinicius/)
 <br/>
