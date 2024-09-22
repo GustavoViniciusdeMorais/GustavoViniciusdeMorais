@@ -6,6 +6,7 @@ As a professional, I like to work with:
 - Building and maintaining REST APIs WebServices
 - Database queries
 - Data Engineering
+- Linux Services
 
 ### Main Tech Skills
 PHP, SOLID, Design Patterns, Laravel, Composer, SQL, Docker, Git, NGINX.
