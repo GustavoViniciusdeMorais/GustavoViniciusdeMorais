@@ -30,6 +30,8 @@ SCRUM, Example Mapping, User Story Mapping, Agile Planning (KWL, Mind Maps, Flow
 - [Information Technology College Degree](./achievements/DegreeGradesHistory.pdf)
 - [Zend Certified PHP Engineer](./achievements/PHP_Engineer_GustavoMorais.pdf)
 - [Data Science Post Degree](./achievements/DataScienceDegreeGrades.pdf)
+- [Software Engineering Post Degree](./achievements/DegreeSoftwareEngineering.pdf)
+    - [Grades](./achievements/SoftwareEngineeringHistoricalGrades.pdf)
 - [Itil Foundation Certification](./achievements/itil.png)
 
 ### My published articles
