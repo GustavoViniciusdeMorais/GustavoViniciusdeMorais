@@ -21,7 +21,10 @@ TDD, Python, Data Engineering, Machine Learning.
 SCRUM, Example Mapping, User Story Mapping, Agile Planning (KWL, Mind Maps, Flow Charts, Impact Effort Matrix, ROADMAP).
 
 ### Main projects
+- [My PHP Router](https://github.com/GustavoViniciusdeMorais/MyPHPFramework)
+- [PHP Studies](https://github.com/GustavoViniciusdeMorais/PhpProjectSetup)
 - [Laravel API](https://github.com/GustavoViniciusdeMorais/Laravel_Studies/tree/api-ddd)
+- [Unix](https://github.com/GustavoViniciusdeMorais/UnixStudy/blob/main/linux_admin.md)
 - [Databases](https://github.com/GustavoViniciusdeMorais/Database_Studies)
 - [Computer Networking](https://github.com/GustavoViniciusdeMorais/Hacking_Studies/tree/virtual-network)
 - [Data Science](https://github.com/GustavoViniciusdeMorais/DataScience_Studies/tree/simple-classification)
