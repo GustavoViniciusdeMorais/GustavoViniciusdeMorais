@@ -1,15 +1,17 @@
 # Gustavo Vinicius de Morais Pereira
 
 Welcome to my GitHub page. <br/>
-I’m an experienced Backend Developer with the technologies PHP, SOLID, Design Patterns, Laravel, Composer, SQL, Docker, Git, NGINX.<br/>
-As a professional, I like to work with:
+I am an experienced Backend Developer with a deep focus on the infrastructure layer and server-side programming.<br/>
+My professional mission is to build resilient, scalable systems, with the long-term goal of becoming a DevOps Engineer.<br/>
+I am a dedicated Linux power user and a firm believer in the "learn, teach, and grow" philosophy, always looking for ways to support my colleagues and improve engineering culture.<br/>
+### As a professional, I like to work with:
 - Building and maintaining REST APIs WebServices
 - Database queries
+- Linux Admin
 - Data Engineering
-- Linux Services
 
 ### Main Tech Skills
-PHP, SOLID, Design Patterns, Laravel, Composer, SQL, Docker, Git, NGINX.
+Skills summary: PHP (Laravel, Composer), SOLID, Design Patterns, SQL, Git, Docker, Web Services (Apache, NGINX), Restful API, Linux, Bash Scripting.
 
 ### Secondary Skill
 TDD, Python, Data Engineering, Machine Learning.
